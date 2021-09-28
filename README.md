@@ -1,6 +1,6 @@
 # Lodash-playground
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  The intent is examples using Lodash with React.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  The intent is examples using Lodash with React.   If you are a React developer trying to learn Lodash, following these examples is a great way to learn.
 
 ## Available Scripts
 

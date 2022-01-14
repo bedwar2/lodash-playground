@@ -8,6 +8,15 @@ import Sort from "./Sort";
 import GroupBy from "./GroupBy";
 import ChainingInLodash from "./ChainingInLodash";
 import PartsOfAnArray from "./PartsOfAnArray";
+import StringFunctions from "./StringFunctions";
+import RandomNumbers from "./RandomNumbers";
+import Flatten from "./Flatten";
+import Challenge1 from "./Challenge1";
+import Challenge2ClassNames from "./Challenge2ClassNames";
+import Challenge3ReplaceURLParams from "./Challenge3ReplaceURLParms";
+import Challenge4BackendErrorMessages from "./Challenge4BackendErrorMessages";
+import Challenge5NestedList from "./Challenge5NestedList";
+import Homework from "./Homework/Homework";
 
 const LodashUdemy = (props) => {
   return (
@@ -21,6 +30,15 @@ const LodashUdemy = (props) => {
       <GroupBy></GroupBy>
       <ChainingInLodash></ChainingInLodash>
       <PartsOfAnArray></PartsOfAnArray>
+      <StringFunctions></StringFunctions>
+      <RandomNumbers />
+      <Flatten />
+      <Challenge1 />
+      <Challenge2ClassNames />
+      <Challenge3ReplaceURLParams />
+      <Challenge4BackendErrorMessages />
+      <Challenge5NestedList />
+      <Homework />
     </div>
   );
 };
